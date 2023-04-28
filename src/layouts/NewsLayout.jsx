@@ -1,5 +1,5 @@
 import React from 'react';
-import React from 'react';
+// import React from 'react';
 import Header from '../pages/Shared/Header/Header';
 import Hooter from '../pages/Shared/footer/Hooter';
 import { Col, Container, Row } from 'react-bootstrap';
